@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FeedApp</string>
+    <string name="title_activity_main">FeedApp</string>
+    <string name="package_name">com.kartik.foodaccessmap</string>
+    <string name="custom_url_scheme">com.kartik.foodaccessmap</string>
+</resources>
